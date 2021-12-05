@@ -13,3 +13,5 @@ go to localhost:3000
 
 # notes:
 - in deploy script, adjust gas based on contract usage
+- example contract deployed on the rinkeby network
+- contract address: 0x1ddcC5bC9ea017D692Eb3B9268D0c71318012d58
