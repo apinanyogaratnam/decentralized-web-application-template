@@ -19,6 +19,8 @@ add env variables shown in sample.env file
 `node deploy.js`
 in terminal you will see the address of the contract deployed on the network depending on the url used to deploy the contract
 
+# using the generator:
+
 # notes:
 - in deploy script, adjust gas based on contract usage
 - example contract deployed on the rinkeby network
